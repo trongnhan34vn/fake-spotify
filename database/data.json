@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "nambeo@gmail.com",
+      "password": "$2a$10$nVIUcVfZ8OmnH5w50FZpieHg1XPtfN3xLsYEcak9j67LUMaV9sSLi",
+      "id": 1
+    },
+    {
+      "email": "trongnhan34vn@gmail.com",
+      "password": "$2a$10$Rh9RK2SIHTabzCYu4GdpTeYGya22Wq0F3HvNZTxoi.UIgN8v1Rctm",
+      "id": 2
+    }
+  ]
+}
